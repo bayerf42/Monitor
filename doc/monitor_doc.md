@@ -507,7 +507,7 @@ Changes from V4.7 to V4.8
 Summary of new key commands (original key labels)
 =================================================
 * Dumping to terminal
-  * **DUMP** dump memory to terminal (*original*)
+  * **DUMP** dump memory to terminal (*as before*)
   * **REG** **REL** list disassembly to terminal
   * **REG** **DUMP** dump registers to terminal
   * **REG** **LOAD** list dynamic breakpoints to terminal
@@ -519,7 +519,7 @@ Summary of new key commands (original key labels)
   * **REG** **_An_** **ADDR** set current memory address from address register _An_
   * **REG** **ADDR** set current memory address from pointer in memory
 * Stepping
-  * **STEP** step into subroutines and traps  (*original*)
+  * **STEP** step into subroutines and traps  (*as before*)
   * **USER** step over subroutines and traps
   * **REG** **STEP** step continue
   * **REG** **USER** step out of a subroutine

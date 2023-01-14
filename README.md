@@ -51,6 +51,10 @@ which creates `monitor.bin` in the parallel `rom` directory.
 * Plug the chip into the EPROM socket on the 68008 Kit and power on.
 * The LED should display `68008 4.8` now.
 
+If you don't want to build it yourself, a pre-built ROM image `monitor.bin`
+is included in the release.
+
+
 ## Printing the keyboard sticker (optional)
 
 The new Monitor defines several new key combinations to access all its features. Though the
